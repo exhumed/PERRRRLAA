@@ -56,13 +56,7 @@ var l_bgImages = [
 	"backgrounds/images/alice03.jpg",
         "backgrounds/images/alice04.jpg",
         "backgrounds/images/alice05.jpg",
-	"backgrounds/images/alice06.jpg",
-	"backgrounds/images/alice07.jpg",
-        "backgrounds/images/alice08.jpg",
-        "backgrounds/images/alice09.jpg",
-        "backgrounds/images/alice10.jpg",
-        "backgrounds/images/alice11.jpg",
-        "backgrounds/images/alice12.jpg"
+	"backgrounds/images/alice06.jpg"
 ];
 
 /*Random background images order?*/
